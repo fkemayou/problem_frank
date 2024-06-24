@@ -1,4 +1,3 @@
-```text
 using OptimalControl
 using CTDirect
 using CTBase
